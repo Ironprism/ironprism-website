@@ -90,3 +90,24 @@ body, html {
     background-color: #0054a6;
   }
 }
+
+a, a:link, a:visited{
+  color: inherit;
+  text-decoration: none;
+}
+
+p.contact {
+  margin-top: 3em;
+  display: solid;
+}
+
+a.contact {
+  border: 1px solid white;
+  padding: 0.5em;
+  border-radius: 0.5em;
+}
+
+a:hover {
+  background-color: white;
+  color: black;
+}
