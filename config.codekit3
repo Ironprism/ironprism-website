@@ -9,6 +9,14 @@
 	],
 "creatorBuild": "32147",
 "files": {
+	"/.gitignore": {
+		"cB": 0,
+		"ft": 8192,
+		"hM": 0,
+		"oA": 0,
+		"oAP": "/.gitignore",
+		"oF": 0
+		},
 	"/CNAME": {
 		"cB": 0,
 		"ft": 8192,
@@ -16,6 +24,61 @@
 		"oA": 0,
 		"oAP": "/CNAME",
 		"oF": 0
+		},
+	"/images/128x128.png": {
+		"ft": 32768,
+		"iS": 6414,
+		"oA": 0,
+		"oAP": "/images/128x128.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/16x16.png": {
+		"ft": 32768,
+		"iS": 672,
+		"oA": 0,
+		"oAP": "/images/16x16.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/256x256.png": {
+		"ft": 32768,
+		"iS": 13593,
+		"oA": 0,
+		"oAP": "/images/256x256.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/32x32.png": {
+		"ft": 32768,
+		"iS": 1391,
+		"oA": 0,
+		"oAP": "/images/32x32.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
+		},
+	"/images/48x48.png": {
+		"ft": 32768,
+		"iS": 2141,
+		"oA": 0,
+		"oAP": "/images/48x48.png",
+		"oF": 0,
+		"oIPL": 0,
+		"opt": 0,
+		"oT": 1,
+		"q": 100
 		},
 	"/images/favicon.ico": {
 		"cB": 0,
