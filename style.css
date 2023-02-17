@@ -165,6 +165,10 @@ p.contact a:hover {
   color: black;
 }
 
+p.contact a::after {
+  display: none;
+}
+
 a {
   position: relative;
 }
